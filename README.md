@@ -1,8 +1,8 @@
-![Hero image](https://raw.githubusercontent.com/emmadavieswilcox/emmadavieswilcox/main/hero.png)
+![Hero image](https://raw.githubusercontent.com/emmaffiondavies/emmaffiondavies/main/hero.png)
 
 <h1>
     Hey there!
-    <img src="https://raw.githubusercontent.com/emmadavieswilcox/emmadavieswilcox/main/wave.gif" alt="Animated hand emoji waving" width="20px" height="20px">
+    <img src="https://raw.githubusercontent.com/emmaffiondavies/emmaffiondavies/main/wave.gif" alt="Animated hand emoji waving" width="20px" height="20px">
 </h1>
 
 How’s it going? Hope you’re having a great day 😊 My name’s Emma, I’m a senior full-stack engineer, specialising in the frontend, from [Chepstow](https://en.wikipedia.com/wiki/Chepstow) in [South Wales](https://en.wikipedia.com/wiki/South_Wales). My biggest passion in coding is creating the best [user experience](https://en.wikipedia.com/wiki/User_experience) possible — which is why I tend to lean towards the frontend — and am always working on random [personal projects](#current-active-projects-%E2%80%8D) outside of my day job. I’d like to start contributing more to the open source community too, aside from my own projects, as my biggest bragging right to date is a [PR](https://www.github.com/facebook/react/pull/11599) accepted to the main [React](https://www.github.com/facebook/react) repo… It’s only a config change, but I’m still counting it, damnit! 😂
@@ -13,7 +13,7 @@ How’s it going? Hope you’re having a great day 😊 My name’s Emma, I’m 
 
 🚗 **[TriumphMayflowerClub.com](https://www.github.com/Stack-in-a-box/triumphmayflowerclub.com)** — _ongoing, long-term project, a website for a classic car club that I designed and developed from scratch, using Jekyll as a static site generator and then vanilla HTML, CSS, and a teeny bit of JS. I now maintain it by adding content and features. I plan to eventually develop a simple, bespoke CMS to allow non-technical members to author content like news articles. Actively looking for project co-maintainers and contributors by the way!_
 
-🌟 **[Next.js Rewrite of the TMC Website](https://www.github.com/emmadavieswilcox/triumphmayflowerclub.com-next.js)** — _I’ve started work on the v2.0 rewrite of the TMC website, building it using Next.js (built on top of React), TypeScript, and Sass. When this SPA reaches parity with the current Jekyll-based website, we will switch over to using this one. The objective is to enable the addition of more advanced features that are currently impossible (or at least impractical to implement) with a static website._
+🌟 **[Next.js Rewrite of the TMC Website](https://www.github.com/emmaffiondavies/triumphmayflowerclub.com-next.js)** — _I’ve started work on the v2.0 rewrite of the TMC website, building it using Next.js (built on top of React), TypeScript, and Sass. When this SPA reaches parity with the current Jekyll-based website, we will switch over to using this one. The objective is to enable the addition of more advanced features that are currently impossible (or at least impractical to implement) with a static website._
 
 🎨 **[CCC ’Cons](https://www.github.com/Stack-in-a-box/ccc-cons)** — _An acronym-ish of “Colour-restored Creative Cloud Icons”, this project is a quick icon pack I recently threw together than can be used to replace the terrible new (late-2020+) Adobe Creative Cloud icons (where some boneheaded designer decided to ditch the universally recognised individual app colours for dull, supposed category-grouped colours) with ones that use the same new icon style but with their colours restored to their pre-2020 glory, making them much more distinguishable and aesthetically pleasing again._
 
@@ -113,5 +113,5 @@ These are my preferred tools, frameworks, languages, etc. (can you tell I’m a 
 
 <div align="center">
     <p>The best way to contact me is via my LinkedIn:</p>
-    <a href="https://www.linkedin.com/in/emmadavieswilcox">https://www.linkedin.com/in/emmadavieswilcox</a>
+    <a href="https://www.linkedin.com/in/emmaffiondavies">https://www.linkedin.com/in/emmaffiondavies</a>
 </div>
